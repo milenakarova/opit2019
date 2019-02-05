@@ -4,4 +4,5 @@ class CustomerExtendedViewModel
     int b;
     // comment 1
     int e;
+    int d;
 }

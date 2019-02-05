@@ -2,6 +2,6 @@ class CustomerBaseModel {
     int a;
     int b;
     int k;
-    int p;
+    int z;//var z
     //prawim promeni
 }

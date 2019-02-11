@@ -5,4 +5,5 @@ class CustomerBaseModel {
     int conflict;
     //prawim promeni
     double kuku;
+    double muku;
 }

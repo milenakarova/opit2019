@@ -12,4 +12,5 @@ class CustomerBaseModel {
     double opit;
 
     int r;
+    int pop;
 }

@@ -6,4 +6,6 @@ class CustomerBaseModel {
     //prawim promeni
 
     int p;
+    double kuku;
+    double muku;
 }

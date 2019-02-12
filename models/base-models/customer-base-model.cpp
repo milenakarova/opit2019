@@ -4,4 +4,6 @@ class CustomerBaseModel {
     int k;
     int conflict;
     //prawim promeni
+
+    int p;
 }

@@ -8,4 +8,6 @@ class CustomerBaseModel {
     int p;
     double kuku;
     double muku;
+
+    double opit;
 }

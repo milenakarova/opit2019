@@ -10,4 +10,6 @@ class CustomerBaseModel {
     double muku;
 
     double opit;
+
+    int pop;
 }

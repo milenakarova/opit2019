@@ -2,6 +2,10 @@ class CustomerBaseModel {
     int a;
     int b;
     int k;
-    int z;//var z
+    int conflict;
     //prawim promeni
+
+    int p;
+    double kuku;
+    double muku;
 }
